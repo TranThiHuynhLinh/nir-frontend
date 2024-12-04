@@ -1,0 +1,3 @@
+interface IRoleRes {
+    role: ROLES
+}
